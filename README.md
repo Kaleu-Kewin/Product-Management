@@ -9,6 +9,13 @@ Através dele, é possível:
 - Atualizar informações de produtos
 - Excluir produtos
 
+## 🛠 Tecnologias Utilizadas
+- Python
+- Django
+- SQLite
+
+## 📸 Demonstrações Visuais
+
 ### Dashboard
 <img src="https://github.com/user-attachments/assets/331e718e-38e2-42e8-8c6a-4f35d074722e" width="100%" />
 
@@ -20,8 +27,3 @@ Através dele, é possível:
 
 ### Login
 <img src="https://github.com/user-attachments/assets/b76a75fb-b6c7-45f6-8a9e-5a3cecc2c678" width="100%" />
-
-## 🛠 Tecnologias Utilizadas
-- Python
-- Django
-- SQLite
